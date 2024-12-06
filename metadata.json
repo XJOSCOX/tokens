@@ -1,0 +1,21 @@
+{
+    "name": "DankToken",
+    "symbol": "DANK",
+    "uri": "https://danktoken.com/metadata.json",
+    "seller_fee_basis_points": 250,
+    "description": "DankToken is the internet's favorite token, designed to make memes more valuable than gold. Powered>    "image": "https://danktoken.com/logo.png",
+    "external_url": "https://danktoken.com",
+    "attributes": [
+        { "trait_type": "Meme Power", "value": "Over 9000" },
+        { "trait_type": "Purpose", "value": "Infinite LOLs" },
+        { "trait_type": "Community Level", "value": "Big Chungus" }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://danktoken.com/logo.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}
